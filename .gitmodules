@@ -1,0 +1,9 @@
+[submodule "react-effects-start"]
+	path = react-effects-start
+	url = https://github.com/zsanjay/react-effects-start.git
+[submodule "react-refs-portals"]
+	path = react-refs-portals
+	url = https://github.com/zsanjay/react-refs-portals.git
+[submodule "tic-tac-toe-using-react"]
+	path = tic-tac-toe-using-react
+	url = https://github.com/zsanjay/tic-tac-toe-using-react.git
