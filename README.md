@@ -1,2 +1,2 @@
-# React Apps to demonestrate various core concepts
+# React Apps to demonstrate various core concepts
 
