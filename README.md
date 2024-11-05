@@ -1,2 +1,2 @@
-# tic-tac-toe-using-react
-Created with CodeSandbox
+# React Apps to demonstrate various core concepts
+
