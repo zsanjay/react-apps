@@ -7,3 +7,6 @@
 [submodule "tic-tac-toe-using-react"]
 	path = tic-tac-toe-using-react
 	url = https://github.com/zsanjay/tic-tac-toe-using-react.git
+[submodule "react-quiz-app"]
+	path = react-quiz-app
+	url = https://github.com/zsanjay/react-quiz-app.git
